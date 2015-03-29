@@ -1,4 +1,4 @@
-var diglett = 'http://fc06.deviantart.net/fs70/f/2010/165/9/4/050___Diglett_by_cammarin.png'
+var diglett = 'http://fc06.deviantart.net/fs70/f/2010/165/9/4/050___Diglett_by_cammarin.png';
 var strikes = 0;
 
 $('body').on('click', function(e) {
